@@ -45,3 +45,9 @@ Another shortcoming could be ...
 A possible improvement would be to ...
 
 Another potential improvement could be to ...
+
+
+
+
+(500, 333) (857, 540) (450, 316) (-14, 540)
+(500, 325) (838, 540) (450, 334) (172, 540)
